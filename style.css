@@ -11,7 +11,7 @@ body{
     flex-direction: column;
     align-items: center;
     justify-content: space-around;
-    height:100vh;
+    min-height:100vh;
     font-family: 'Fira Sans', sans-serif;
 }
 
