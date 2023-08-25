@@ -1,6 +1,6 @@
 const click = new Audio('music/click.wav')
 const gameover = new Audio('music/gameover.wav')
-const win=new Audio("music/win.wav")
+const win=new Audio("music/winning.wav")
 let turn = "X"
 let game = false
 
